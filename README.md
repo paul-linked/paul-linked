@@ -1,1 +1,3 @@
-I Try but succeed I do not
+while (true) {
+System.out.print("I want samsung fridge");
+}
