@@ -1,3 +1,3 @@
 while (true) {
-System.out.print("I want samsung fridge");
+  System.out.println("I want samsung fridge");
 }
